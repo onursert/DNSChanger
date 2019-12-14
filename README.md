@@ -1,4 +1,4 @@
-# DNSChanger
+# DNS Changer
 <p>DNS Changer - 2014 (C#)</p>
 <p>DNS Changer is a tool for Windows PCs allows you to change the DNS servers you use to surf the web.</p>
 <img src="DNSChanger.png">
